@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T20:11:44 EDT" name="Default suite" finished-at="2023-09-11T20:12:25 EDT" duration-ms="41538">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T20:11:44 EDT" name="Default test" finished-at="2023-09-11T20:12:25 EDT" duration-ms="41538">
+      <class name="testlayer.LoginTest">
+        <test-method is-config="true" signature="inisetup()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:11:44 EDT" name="inisetup" finished-at="2023-09-11T20:11:56 EDT" duration-ms="12031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inisetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:11:56 EDT" name="Login" data-provider="Details" finished-at="2023-09-11T20:11:57 EDT" duration-ms="127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user15l]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="inisetup()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:11:57 EDT" name="inisetup" finished-at="2023-09-11T20:12:06 EDT" duration-ms="9838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inisetup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:11:57 EDT" name="close" finished-at="2023-09-11T20:11:57 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:06 EDT" name="Login" data-provider="Details" finished-at="2023-09-11T20:12:07 EDT" duration-ms="135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:07 EDT" name="close" finished-at="2023-09-11T20:12:07 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="inisetup()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:07 EDT" name="inisetup" finished-at="2023-09-11T20:12:16 EDT" duration-ms="9166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inisetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:16 EDT" name="Login" data-provider="Details" finished-at="2023-09-11T20:12:16 EDT" duration-ms="133" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:16 EDT" name="close" finished-at="2023-09-11T20:12:16 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="inisetup()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:16 EDT" name="inisetup" finished-at="2023-09-11T20:12:25 EDT" duration-ms="9312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inisetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:25 EDT" name="Login" data-provider="Details" finished-at="2023-09-11T20:12:25 EDT" duration-ms="109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lfgdg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testlayer.LoginTest@3270d194]" started-at="2023-09-11T20:12:25 EDT" name="close" finished-at="2023-09-11T20:12:25 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testlayer.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
